@@ -1,5 +1,4 @@
 <h1>
-    <img src="../componentes/imagens_inicio/logosw.png">
     <p>Projeto Desafio da Fábrica de Software 2023.2</p>
 </h1>
 

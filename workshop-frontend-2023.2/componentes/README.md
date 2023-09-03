@@ -17,4 +17,4 @@ afim de saber se estão aptos ou determinados a estágiar na fábrica, testando-
 
 Autor: Átila França do Nascimento
 
-Lincenciamento: Não tem, fique a vontade para da forma que bem lhe comvém, pode até dizer que é seu mesmo (apesar de que isso seria plágio).
+Lincenciamento: Não tem, fique a vontade para utilizar da forma que bem lhe comvém.

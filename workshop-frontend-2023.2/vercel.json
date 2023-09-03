@@ -1,4 +1,3 @@
 {
     "rewrites":[{"source": "/(.*)" , "destination": "/"}]
 }
-//Tentei usar esse código esse código pra ver se funcionava no vercel

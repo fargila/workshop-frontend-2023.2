@@ -1,0 +1,26 @@
+header{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    border-bottom-style: solid;
+    border-bottom-color: 2px #FFC107;
+    font-size: 100%;
+}
+.logo_div{
+    max-height: auto;
+    width: 100%;
+}
+.logo_div .logo{
+    width: 15%;
+    height: 15%;
+    padding-left: 3%;
+    margin: 0;
+}
+.divCabeza{
+    padding-right: 5%;
+}
+
